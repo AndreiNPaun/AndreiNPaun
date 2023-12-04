@@ -30,4 +30,4 @@ Welcome to my GitHub profile! I'm a passionate Fullstack Software Engineer speci
 
 ## Community and Networking
 
-- **LinkedIn**: Connect with me on [LinkedIn](https://www.linkedin.com/in/andrei-paun-77a884150/) for updates on my professional journey and to share ideas.
+- **LinkedIn**: Connect with me on [LinkedIn](https://www.linkedin.com/in/andrei-paun-77a884150/)!
