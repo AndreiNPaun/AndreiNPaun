@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate Fullstack Software Engineer speci
 
 - **SJULTRA**: As an integral part of the SJULTRA team, I have significantly contributed to `PeepsDB`, focusing on improving its functionality and user experience. I am also actively involved in developing an Authentication Portal app, a project aimed at streamlining user security and access.
 
-- **Junior Jam/ ICT Instructor**: I am also a part-time primary school teacher. My lessons consist of animations, Microsoft Office, basic network infrastructure, online safety and more.
+- **ICT Instructor for Junior Jam**: I am also a part-time primary school teacher. My lessons consist of animations, Microsoft Office, basic network infrastructure, online safety and more.
 
 ## Education
 
