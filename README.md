@@ -1,4 +1,4 @@
-# Hi, I'm Andrei 👋
+# Hi, I'm Andrei
 
 ## Introduction
 
